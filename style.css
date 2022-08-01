@@ -271,7 +271,6 @@ body {
     body {
         display: flex;
         flex-direction: column;
-        border:1px solid red; 
         overflow: hidden;
         width: 360px;
         height:741px;
